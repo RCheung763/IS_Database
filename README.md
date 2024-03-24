@@ -1,4 +1,4 @@
-# IS_Database
+# International Student Database
 
 Each year, hundreds of thousands of international students face unique challenges in finding suitable a college to complete their undergrad.  Existing college search engines lack detailed international student-specific information making the process tedious and inefficient. Often college websites can be hard to navigate. The chances of overlooking suitable school is high.  A centralized database needed for efficient search and match process, aiding in time and money allocation.
 
